@@ -1,39 +1,33 @@
-# _**Prazer, me chamo Matheus Euphrasio**_
+# Prazer, me chamo Matheus Euphrasio
 
-## _**sobre mim:**_
+## sobre mim
+* Tenho **15 anos**, nasci em guaratinguetá porém atualmente moro em **Cachoeira Paulista**; 
+ * Estudante do 1º ano de uma etec, cursando a area de DS (Desenvolvimento de Sistema);
+ * Busco ser um dev no futuro;**
+* Pretendo me tornar um ótimo profissional da área, me tornando tão bom quanto DanielHe4rt.
 
-* **Tenho 15 anos, nasci em guaratinguetá porém atualmente moro em Cachoeira Paulista;** 
-
- * **Estudante do 1º ano de uma etec, cursando a area de DS (Desenvolvimento de Sistema);** 
- 
- * **Busco ser um dev no futuro;**
-
-* **Pretendo me tornar um ótimo profissional da área, me tornando tão bom quanto DanielHe4rt.**
-
-## _**Conhecimento na área:**_
+## Conhecimento na área
 
 ### **Sobre os aplicativos que me ajudaram no meu desenvolvimento próprio, entre eles estão: _Visual Studio Code_ para programação de codigos e _Github_ para análise do modelo de outros programadores, na busca de desenvolver meu próprio código.**
 
 
-## _**O que busco aprender?**_
+## O que busco aprender?
 
-* **No momento busco por saber mais sobre a programação e suas formas variadas de sempre se inovar de maneira que eu possa me aprofundar cada vez mais no assunto;**
-
+* **No momento busco por saber mais sobre a programação e suas formas variadas de sempre se inovar de maneira que eu possa me aprofundar cada vez mais no assunto;
 * **Aprender sobre as linguagens de programação e as possibilidades que eu possa aplicar elas em minhas ideias e projetos;**
-
 * **Pretendo aprender sobre as variadas linguagens como:** _**Python, JavaScript, PHP, SQL, NOSQL e CSHARP (C#);**_
 
 
 
-## _**Meta:**_
+## Meta
 
 * **Minha meta é aperfeiçoar meu inglês, saindo do básico para algo além, como: Intermediario ou avançado. Assim melhorando não só na comunicação mas também de modo que facilite meu entendimento do assunto em códigos/programação.**
 
 
-## _**O que sei sobre programação?**_
+## O que sei sobre programação?
 
-* **até o momento estou buscando me aprimorar no quesito programação.**
-* **Sei o básico sobre HTML e CSS.** 
+* até o momento estou buscando me aprimorar no quesito programação.
+* Sei o básico sobre **HTML e CSS**. 
 
 
 ## _**O que é markdown?**_
