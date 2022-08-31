@@ -8,14 +8,14 @@
 
 ## Conhecimento na área
 
-### **Sobre os aplicativos que me ajudaram no meu desenvolvimento próprio, entre eles estão: _Visual Studio Code_ para programação de codigos e _Github_ para análise do modelo de outros programadores, na busca de desenvolver meu próprio código.**
+ * Sobre os aplicativos que me ajudaram no meu desenvolvimento próprio, entre eles estão: **Visual Studio Code** para programação de codigos e **Github** para análise do modelo de outros programadores, na busca de desenvolver meu próprio código.
 
 
 ## O que busco aprender?
 
 * No momento busco por saber mais sobre a programação e suas formas variadas de sempre se inovar de maneira que eu possa me aprofundar cada vez mais no assunto;
 * Aprender sobre as linguagens de programação e as possibilidades que eu possa aplicar elas em minhas ideias e projetos;
-* Pretendo aprender sobre as variadas linguagens como:**Python, JavaScript, PHP, SQL, NOSQL e CSHARP (C#)**;
+* Pretendo aprender sobre as variadas linguagens como: **Python, JavaScript, PHP, SQL, NOSQL e CSHARP (C#)**;
 
 
 
