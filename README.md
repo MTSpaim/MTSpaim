@@ -3,7 +3,7 @@
 ## sobre mim
 * Tenho **15 anos**, nasci em guaratinguetá porém atualmente moro em **Cachoeira Paulista**; 
  * Estudante do 1º ano de uma etec, cursando a area de DS (Desenvolvimento de Sistema);
- * Busco ser um dev no futuro;**
+ * Busco ser um dev no futuro;
 * Pretendo me tornar um ótimo profissional da área, me tornando tão bom quanto DanielHe4rt.
 
 ## Conhecimento na área
@@ -13,15 +13,15 @@
 
 ## O que busco aprender?
 
-* **No momento busco por saber mais sobre a programação e suas formas variadas de sempre se inovar de maneira que eu possa me aprofundar cada vez mais no assunto;
-* **Aprender sobre as linguagens de programação e as possibilidades que eu possa aplicar elas em minhas ideias e projetos;**
-* **Pretendo aprender sobre as variadas linguagens como:** _**Python, JavaScript, PHP, SQL, NOSQL e CSHARP (C#);**_
+* No momento busco por saber mais sobre a programação e suas formas variadas de sempre se inovar de maneira que eu possa me aprofundar cada vez mais no assunto;
+* Aprender sobre as linguagens de programação e as possibilidades que eu possa aplicar elas em minhas ideias e projetos;
+* Pretendo aprender sobre as variadas linguagens como:**Python, JavaScript, PHP, SQL, NOSQL e CSHARP (C#)**;
 
 
 
 ## Meta
 
-* **Minha meta é aperfeiçoar meu inglês, saindo do básico para algo além, como: Intermediario ou avançado. Assim melhorando não só na comunicação mas também de modo que facilite meu entendimento do assunto em códigos/programação.**
+* Minha meta é **aperfeiçoar meu inglês**, saindo do básico para algo além, como: Intermediario ou avançado. Assim melhorando não só na comunicação mas também de modo que facilite meu entendimento do assunto em códigos/programação.
 
 
 ## O que sei sobre programação?
